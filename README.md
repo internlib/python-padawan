@@ -12,3 +12,5 @@ https://www.python.org/dev/peps/pep-0008/
 
 
 sudo apt install pylint
+
+https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
