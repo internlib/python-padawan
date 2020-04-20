@@ -15,4 +15,6 @@ Vscode plugins | [python-preview](https://marketplace.visualstudio.com/items?ite
 Anaconda | [anaconda](https://www.anaconda.com/distribution/)
 
 
+pylint3 tipos_basicos.py 
+
 sudo apt install pylint
