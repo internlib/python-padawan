@@ -2,26 +2,17 @@
 🐍 Python learning: Examples, Books, Projects, Libraries ..
 
 
-https://docs.python.org/3/
+* Useful links
 
-https://www.anaconda.com/distribution/
-
-https://www.cod3r.com.br/courses/python3
-
-https://en.wikipedia.org/wiki/Python_(programming_language)
-
-https://www.geeksforgeeks.org/history-of-python/
-
-https://pythonacademy.com.br/zen-of-python
-
-
-https://www.python.org/dev/peps/pep-0008/
+Description | URL
+------------ | -------------
+Official documentation | [Docs](https://docs.python.org/3/)
+Lnguage information | [About language](https://en.wikipedia.org/wiki/Python_(programming_language))
+Zen Of Python | [ZenOfPython](https://pythonacademy.com.br/zen-of-python)
+PEP8 | [pep8](https://www.python.org/dev/peps/pep-0008/)
+Spyder IDE | [Spyped](https://docs.spyder-ide.org/installation.html)
+Vscode plugins | [python-preview](https://marketplace.visualstudio.com/items?itemName=dongli.python-preview) [code-runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+Anaconda | [anaconda](https://www.anaconda.com/distribution/)
 
 
 sudo apt install pylint
-
-https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
-
-https://marketplace.visualstudio.com/items?itemName=dongli.python-preview
-
-https://docs.spyder-ide.org/installation.html
