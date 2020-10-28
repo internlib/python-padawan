@@ -22,3 +22,27 @@ Anaconda | [anaconda](https://www.anaconda.com/distribution/)
 Description | URL
 ------------ | -------------
 cod3r-python3-github | [url](https://github.com/cod3rcursos/curso-python)
+
+---
+
+## Interpreter
+
+```
+python3
+Python 3.7.3 (default, Jul 25 2020, 13:03:44) 
+>>> help()
+help> keywords
+```
+Output:
+
+```
+False               class               from                or
+None                continue            global              pass
+True                def                 if                  raise
+and                 del                 import              return
+as                  elif                in                  try
+assert              else                is                  while
+async               except              lambda              with
+await               finally             nonlocal            yield
+break               for                 not               
+```
