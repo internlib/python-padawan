@@ -1,5 +1,5 @@
-trabalho_terca = False
-trabalho_quinta = False
+trabalho_terca = True
+trabalho_quinta = True
 
 
 tv_50 = trabalho_terca and trabalho_quinta
