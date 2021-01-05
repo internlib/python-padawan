@@ -1,0 +1,4 @@
+'''
+*args    => tuple
+**kwargs => dict
+'''
