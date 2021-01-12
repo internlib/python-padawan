@@ -1,3 +1,4 @@
+# pass function as parameter
 def calc_final_price(gross_price, tax, *params):
     return gross_price + gross_price * tax(*params)
 
