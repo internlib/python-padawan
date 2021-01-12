@@ -20,12 +20,19 @@ Anaconda | [anaconda](https://www.anaconda.com/distribution/)
 ## Coverage
 
 1 - Syntax
+
 2 - Fundamentals
+
 3 - Object oriented
+
 4 - Functional programming
+
 5 - APIs (flask and django)
+
 6 - Tests
+
 7 - Sockets
+
 8 - IA and Data processing
 
 ---
